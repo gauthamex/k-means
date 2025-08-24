@@ -1,7 +1,3 @@
-Perfect 👍 For a **GitHub repo**, the README should be clear, professional, and developer-friendly. Here’s a polished version you can directly use in your repository:
-
----
-
 # 🛍️ Customer Segmentation using K-Means
 
 Customer segmentation project using **K-Means clustering** on mall customers dataset. The model groups customers based on **Annual Income** and **Spending Score**, helping businesses design targeted marketing strategies.
@@ -96,12 +92,4 @@ python customer_segmentation.py
 Contributions, issues, and feature requests are welcome!
 Feel free to open a pull request or submit an issue.
 
----
 
-## 📝 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
----
-
-👉 Do you also want me to **generate a `requirements.txt` and a `customer_segmentation.py` file** from your code so you can push everything neatly into GitHub?
